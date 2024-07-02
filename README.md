@@ -1,4 +1,4 @@
-<h2>Problemas Climáticos</h2>
+<strong><h2>Problemas Climáticos</h2></strong>
 
 <p>O Brasil enfrenta desafios climáticos significativos, e as <strong>enchentes no Rio Grande do Sul</strong> são um exemplo alarmante desses problemas.<br> Anualmente, as chuvas intensas e mal distribuídas contribuem para inundações que afetam severamente comunidades locais, causando danos materiais, perdas humanas e desestruturação social.<br> Diante dessa realidade preocupante, é essencial discutir não apenas as causas, mas também buscar soluções eficazes para minimizar esses impactos.</p>
 
